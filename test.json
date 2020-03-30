@@ -1,0 +1,57 @@
+{
+    "OrthoMat": [
+        [
+            -0.8674197186492205,
+            8.757660103035132,
+            -839.2474306933037
+        ],
+        [
+            -3.155311070263746,
+            0.5137283258683374,
+            2152.876782183608
+        ],
+        [
+            0.00015781918808365256,
+            0.005802999757455822,
+            0.9999999999999999
+        ]
+    ],
+    "ImgFileToRectify": "/Users/pierrelemaire/Documents/stationair/apps/code snippets/python homography calculator/persp_img.jpg",
+    "ImgFileToOrtho": "/Users/pierrelemaire/Documents/stationair/apps/code snippets/python homography calculator/ortho_img.jpg",
+    "CoordsPtsToRectify": [
+        [
+            130,
+            418
+        ],
+        [
+            677,
+            565
+        ],
+        [
+            659,
+            206
+        ],
+        [
+            362,
+            171
+        ]
+    ],
+    "CoordsPtsOrtho": [
+        [
+            786,
+            568
+        ],
+        [
+            803,
+            70
+        ],
+        [
+            171,
+            78
+        ],
+        [
+            168,
+            536
+        ]
+    ]
+}
